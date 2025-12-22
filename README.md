@@ -14,4 +14,4 @@ Our aim is to democratize game customization on the platform, enabling all playe
 
 The current loadstring is:
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/K9ntra/Antora/main/abc.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/K9ntra/Antora/main/abc.luau'))()
